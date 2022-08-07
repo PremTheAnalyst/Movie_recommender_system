@@ -1,2 +1,2 @@
-# Movie_recommender_system
+# Movie_Recommender_System
 Movie Recommendation System
