@@ -1,5 +1,4 @@
 # Movie_Recommender_System
-Movie Recommendation System
 
 LINK TO THE WEBSITE :- https://movie-rms-prem.herokuapp.com
 
