@@ -1,6 +1,6 @@
 # Movie_Recommender_System
 
-LINK TO THE WEBSITE :- https://movie-rms-prem.herokuapp.com
+LINK TO THE WEBSITE :-- https://movie-rms-prem.herokuapp.com
 
 RECOMMENDATION SYSTEMS<br />
 
@@ -11,9 +11,9 @@ RECOMMENDATION SYSTEMS<br />
 
 3) Main ideology behind it is to give better experience to the  users ,give a personalized experience and finally increase the profit of the organization for example YOUTUBE(so that user watches more ads) ,SPOTIFY,NETFLIX,AMAZON(so that user buys more products) etc.
 
-4) TYPES OF RECOMMENDATON SYSTEM:-
+4) TYPES OF RECOMMENDATON SYSTEM:--
 
-a) POPULARITY BASED—e.g Youtube trending section, IMDB top 250 movies     recommendation .In tis system the system does not  acts according to the preference of users but rather shows only the most trending or top products on the platform. Based on some formulas.
+a) POPULARITY BASED—-- e.g Youtube trending section, IMDB top 250 movies     recommendation .In tis system the system does not  acts according to the preference of users but rather shows only the most trending or top products on the platform. Based on some formulas.
 
 b) CONTENT BASED--- Content-based filtering methods are based on the description of a product and a profile of the user’s preferred choices. In this recommendation system, products are described using keywords, and a user profile is built to express the kind of item this user likes.
 For instance, if a user likes to watch movies such as Iron Man, the recommender system recommends movies of the superhero genre or films describing Tony Stark.
